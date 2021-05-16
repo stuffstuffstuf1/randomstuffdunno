@@ -7,3 +7,4 @@ Link|Description|Other stuff
 [QR code generator](qr-code-generator.com)|Make QR codes I guess|what, isn't it obvious?
 [The correct name for shades](digitalsynopsis.com/design/color-thesaurus-correct-name-of-shades)|Uhh, correct name for colours|N/A
 [Fifty shades of grey](http://readonlinefreebook.com/fifty-shades-of-grey)|Read the book!|reading is good for you...
+[Google Drive](drive.google.com)|Ripoff of Microsoft Office|I personally prefer Microsoft Office
