@@ -8,3 +8,4 @@ Link|Description|Other stuff
 [The correct name for shades](digitalsynopsis.com/design/color-thesaurus-correct-name-of-shades)|Uhh, correct name for colours|N/A
 [Fifty shades of grey](http://readonlinefreebook.com/fifty-shades-of-grey)|Read the book!|reading is good for you...
 [Google Drive](drive.google.com)|Ripoff of Microsoft Office|I personally prefer Microsoft Office
+[Dictionary.com](dictionary.com)|it's pretty obvious|discover the meaning of words
