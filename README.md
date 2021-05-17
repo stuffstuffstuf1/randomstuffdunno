@@ -16,3 +16,14 @@ Link|Description|Other stuff
 [Roblox](roblox.com)|Sort of a ripoff of Minecraft, but in a way not|U
 [The useless web](https://theuselessweb.com)|Brings you to a useless website|N
 [Bring me to buy something useless](https://weirdorconfusing.com/)|Brings you to buy something useless|D
+[Naver](naver.com)|Korean stuff| 
+[Gmail](mail.google.com)|Google mail...|T
+[Microsoft Onedrive](onedrive.com)|Cloud storage from microsoft|H
+[Github](github.com)|What I used to make this website|E
+[Edmodo](new.edmodo.com)|Organize homework and stuff| 
+[Google classroom](google.classroom.com)|Like edmodo, see above|S
+[Google docs](docs.google.com/document)|Google docs|E
+[Google slides](docs.google.com/presentation)|Google slides|C
+[Google sheets](docs.google.com/spreadsheets)|Google spreadsheets|R
+[Google forms](docs.google.com/forms)|Google forms|E
+[Google calender](calender.google.com)|Google calender|T
