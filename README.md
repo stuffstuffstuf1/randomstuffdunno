@@ -2,8 +2,8 @@
 
 Link|Description|Other stuff
 -|-|-
-[definition of 'stuff'](https://www.dictionary.com/browse/stuff)|The full definition of 'stuff'|W
-[Youtube](youtube.com)|Watch videos, get clickbaited and forced to like and subscribe, or do that to other people|O
+[definition of 'stuff'](https://www.dictionary.com/browse/stuff)|The full definition of 'stuff'-|W
+[Youtube](youtube.com)|Watch videos, get clickbaited and forced to like and subscribe, or do that to other people.|O
 [Google](google.com)|Search about stuff, its google, what?|W
 [QR code generator](qr-code-generator.com)|Make QR codes I guess|,
 [The correct name for shades](digitalsynopsis.com/design/color-thesaurus-correct-name-of-shades)|Uhh, correct name for colours| 
