@@ -27,3 +27,9 @@ Link|Description|Other stuff
 [Google sheets](docs.google.com/spreadsheets)|Google spreadsheets-|R
 [Google forms](docs.google.com/forms)|Google forms.|E
 [Google calender](calender.google.com)|Google calender-|T
+[Random website generator](https://random-ize.com/random-website/)|Takes you to a random and stupid website-|N
+[Random video generator](https://random-ize.com/random-youtube/)|Shows you a weird and random video|E
+[Make Beliefs Comix](www.makebeliefscomix.com)|Make comics, not so good though-|W
+[PDF to doc](https://pdf2doc.com/)|File format changer, not only PDF to doc-|
+[Morse code translator](https://morsecode.world/international/translator.html)|Morse code translator... (useful to find easter eggs)-|S
+[Minecraft seed map](https://www.chunkbase.com/apps/seed-map)|Minecraft seed map... (it's so obvious)|E
