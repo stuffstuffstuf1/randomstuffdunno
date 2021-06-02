@@ -6,7 +6,7 @@ Link|Description|Other stuff
 [Youtube](https://youtube.com)|Watch videos, get clickbaited and forced to like and subscribe, or do that to other people|O
 [Google](https://google.com)|Search about stuff, its google, what?|W
 [QR code generator](https://qr-code-generator.com)|Make QR codes I guess|,
-[The correct name for shades](https://digitalsynopsis.com/design/color-thesaurus-correct-name-of-shades)|Uhh, correct name for colours| 
+[The correct name for shades](https://digitalsynopsis.com/design/color-thesaurus-correct-names-of-shades/)|Uhh, correct name for colours| 
 [Fifty shades of grey](http://readonlinefreebook.com/fifty-shades-of-grey)|Read the book!|Y
 [Google Drive](https://drive.google.com)|Ripoff of Microsoft Office|O
 [Dictionary.com](https://dictionary.com)|it's pretty obvious|U
