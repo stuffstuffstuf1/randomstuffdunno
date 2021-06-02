@@ -35,3 +35,7 @@ Link|Description|Other stuff
 [Minecraft seed map](https://www.chunkbase.com/apps/seed-map)|Minecraft seed map... (it's so obvious)|E
 [Reddit](https://www.reddit.com/)|really fun posts and things to look at when bored|C
 [Imgur](https://imgur.com/)|(pronounced image-er) funny and random images|R
+[100,000 stars](https://stars.chromeexperiments.com/)|shows you the stars of the entire milky way, really fun|E
+[Wikipedia's list of conspiracy theories](https://en.wikipedia.org/wiki/List_of_conspiracy_theories)|Really, really, stupid...|T
+[How Stuff Works](https://www.howstuffworks.com/)|How stuff works...|!
+[What can it be? click to find out](https://cant-not-tweet-this.com/)|click it!!!!!!!!!!!!|:)
