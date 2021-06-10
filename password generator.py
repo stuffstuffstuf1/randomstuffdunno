@@ -1,26 +1,29 @@
+#import random (randomiser) and string (randomised)
 import random
 import string
 
+#welcome message
 print('Hello, Welcome to Password generator!')
 
-#input the length of password
-length = int(input('\nEnter the length of the password (max 9999): '))                      
+#ask for the length
+length = int(input('\nEnter the length of the password (max 4500): '))                      
 
-#define data
+#define the different parts of your password
 lower = string.ascii_lowercase
 upper = string.ascii_uppercase
 num = string.digits
 symbols = string.punctuation
-#string.ascii_letters
+stuff = string.hexdigits
+stuff_two = string.octdigits
 
-#combine the data
-all = lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols
+#create all
+all = lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols +lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + lower + upper + num + symbols + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two + stuff_two
 
-#use random 
+#randomise
 temp = random.sample(all,length)
 
-#create the password 
+#join password
 password = "".join(temp)
 
-#print the password
+#print password
 print(password)
