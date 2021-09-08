@@ -74,4 +74,4 @@ elif random_thingy == 6:
 if bonus_number_thingy == 1:
     print("You got the bonus number correct!")
 else:
-    print("You didn't get the bonus number right.")
+    print("You didn't get the bonus number right...")
