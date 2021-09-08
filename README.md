@@ -24,7 +24,7 @@ Link|Description|Other stuff
 [Google classroom](https://google.classroom.com)|Like edmodo, see above|S
 [Google docs](https://docs.google.com/document)|Google docs|E
 [Google slides](https://docs.google.com/presentation)|Google slides|C
-[Google sheets](https://docs.google.com/spreadsheets)|Google spreadsheets-|R
+[Google sheets](https://docs.google.com/spreadsheets)|Google spreadsheets|R
 [Google forms](https://docs.google.com/forms)|Google forms|E
 [Google calender](https://calender.google.com)|Google calender|T
 [Random website generator](https://random-ize.com/random-website/)|Takes you to a random and stupid website|
