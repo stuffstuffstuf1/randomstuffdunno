@@ -27,15 +27,15 @@ Link|Description|Other stuff
 [Google sheets](https://docs.google.com/spreadsheets)|Google spreadsheets|R
 [Google forms](https://docs.google.com/forms)|Google forms|E
 [Google calender](https://calender.google.com)|Google calender|T
-[Random website generator](https://random-ize.com/random-website/)|Takes you to a random and stupid website|
-[Random video generator](https://random-ize.com/random-youtube/)|Shows you a weird and random video|N
-[Make Beliefs Comix](https://www.makebeliefscomix.com)|Make comics, not so good though|E
-[PDF to doc](https://pdf2doc.com/)|File format changer, not only PDF to doc|W
+[Random website generator](https://random-ize.com/random-website/)|Takes you to a random and stupid website|:)
+[Random video generator](https://random-ize.com/random-youtube/)|Shows you a weird and random video|
+[Make Beliefs Comix](https://www.makebeliefscomix.com)|Make comics, not so good though|
+[PDF to doc](https://pdf2doc.com/)|File format changer, not only PDF to doc|
 [Morse code translator](https://morsecode.world/international/translator.html)|Morse code translator... (useful to find easter eggs)|
-[Minecraft seed map](https://www.chunkbase.com/apps/seed-map)|Minecraft seed map... (it's so obvious)|S
-[Reddit](https://www.reddit.com/)|really fun posts and things to look at when bored|E
-[Imgur](https://imgur.com/)|(pronounced image-er) funny and random images|C
-[100,000 stars](https://stars.chromeexperiments.com/)|shows you the stars of the entire milky way, really fun|R
-[Wikipedia's list of conspiracy theories](https://en.wikipedia.org/wiki/List_of_conspiracy_theories)|Really, really, stupid...|E
-[How Stuff Works](https://www.howstuffworks.com/)|How stuff works...|T
-[What can it be? click to find out](https://cant-not-tweet-this.com/)|click it!!!!!!!!!!!!|:)
+[Minecraft seed map](https://www.chunkbase.com/apps/seed-map)|Minecraft seed map... (it's so obvious)|
+[Reddit](https://www.reddit.com/)|really fun posts and things to look at when bored|
+[Imgur](https://imgur.com/)|(pronounced image-er) funny and random images|
+[100,000 stars](https://stars.chromeexperiments.com/)|shows you the stars of the entire milky way, really fun|
+[Wikipedia's list of conspiracy theories](https://en.wikipedia.org/wiki/List_of_conspiracy_theories)|Really, really, stupid...|
+[How Stuff Works](https://www.howstuffworks.com/)|How stuff works...|
+[What can it be? click to find out](https://cant-not-tweet-this.com/)|click it!!!!!!!!!!!!|
