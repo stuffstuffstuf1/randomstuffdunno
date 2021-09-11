@@ -39,3 +39,4 @@ Link|Description|Other stuff
 [Wikipedia's list of conspiracy theories](https://en.wikipedia.org/wiki/List_of_conspiracy_theories)|Really, really, stupid...|
 [How Stuff Works](https://www.howstuffworks.com/)|How stuff works...|
 [What can it be? click to find out](https://cant-not-tweet-this.com/)|click it!!!!!!!!!!!!|
+[New mystery link! Don't click it](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|don't click it!!!!!!!|
