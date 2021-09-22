@@ -15,7 +15,6 @@ num = string.digits
 symbols = string.punctuation
 stuff = string.hexdigits
 stuff_two = string.octdigits
-stuff_three = string.whitespace
 
 
 #create all
